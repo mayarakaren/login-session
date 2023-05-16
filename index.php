@@ -8,8 +8,8 @@
 </head>
 <body>
     <form action="validar.php" method="post">
-        <input type="text" name="campoNome">
-        <input type="password" name="campoSenha">
+        Usuário:<input type="text" name="usuario"><br><br>
+        Senha:<input type="password" name="senha"><br><br>
         <input type="submit" value="Enviar">
     </form>
 </body>
